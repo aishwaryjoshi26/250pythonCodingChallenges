@@ -1,2 +1,2 @@
-# 250pythonCodingChallenges
-250pythonCodingChallenges
+# DSA coding challeges
+DSA Sheet by Love Babbar
